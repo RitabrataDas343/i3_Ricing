@@ -8,7 +8,7 @@ i3 is one of the most popular open source software that is used for ricing. 'Ric
 
 ``` bash
 $ sudo apt install i3
-$ sudo apt install feh thunar rofi pavucontrol arandr i3blocks
+$ sudo apt install feh thunar rofi pavucontrol arandr i3blocks compton
 ```
 Logout of the window and on the login screen, you will get a white icon depicting the i3 window manager, select that and login.
 
@@ -33,6 +33,8 @@ Please note that _.config_ is a hidden folder.
 #### Win + S => Stacks the windows.
 #### Win + E => Tiles the windows.
 #### Win + W => Toggles the windows.
+#### Win + F => Changes to Fullscreen mode.
+#### Win + Shift + C => Reloads the current windows.
 #### Win + R => Activates the resize mode. Hover over the window you want to resize and use the arrow keys to resize the windows.
 #### Win + Shift + R => Restarts the i3 manager.
 #### Win + Shift + Space => Floats the window and makes it draggable.
@@ -65,7 +67,9 @@ Click on the application and get the class and assign it using the syntax in lin
 
 ## Opening Applications on Boot
 
-Use the following line in the 
+#### Use the exec_always line in the code of the _config_ file. Example shown in line 224 and 225.  
+
+
 
 
 
