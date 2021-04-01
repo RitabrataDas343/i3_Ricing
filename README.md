@@ -53,8 +53,19 @@ $ xrandr
 ```
 Copy the output and paste it in line 228 followed by exec_always. It sets the resolution of your screen and it helps in adjusting multiple monitors.
 
-## Renaming Workspaces
+## Renaming Workspaces and Assigning Applications
 
+#### Workspaces can be renamed by assigning names within the inverted commas in the lines 108 to 117 of the config file.
+#### Applications can be assigned by using the xprop command and making subsequent changes in the config files 
+
+``` bash
+$ xprop
+```
+Click on the application and get the class and assign it using the syntax in line 131.
+
+## Opening Applications on Boot
+
+Use the following line in the 
 
 
 
