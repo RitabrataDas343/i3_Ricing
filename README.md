@@ -103,6 +103,23 @@ You can now see the font already installed in lxappearance as 'SFNS Display'. Ad
 
 ## Customizing Rofi and DMenu
 
+Rofi and DMenu are basically Application Managers. 
+#### DMenu can be customized using the code line 50 of _config_ file
+
+#### For customizing Rofi, use the following bash commands:
+
+``` bash
+$ cd /usr/share/rofi/themes
+$ la
+```
+It will display all the themes. Copy and paste your desired theme in line 207 and 208.
+
+## References
+
+#### You can visit [i3wm](https://i3wm.org/docs/userguide.html) for further customization and help.
+
+
+
 
 
 
