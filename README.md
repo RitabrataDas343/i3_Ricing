@@ -71,6 +71,35 @@ Click on the application and get the class and assign it using the syntax in lin
 
 ## Downloading Fonts 
 
+#### You can download fonts and install them. For example, I have installed the [Yosemite San Francisco Font](https://github.com/supermarin/YosemiteSanFranciscoFont) in my system. 
+#### Download the font in .zip format from the link in _Manual Install_ section of the repository.
+
+``` bash
+$ cd Downloads 
+$ unzip YosemiteSanFranciscoFont-master.zip
+$ cd YosemiteSanFranciscoFont-master 
+$ mv *.ttf ~/.fonts/
+```
+
+You can now see the font already installed in lxappearance as 'SFNS Display'. Adjust the font size also. Change line 16 of config file as well to apply the font to all sectors.
+
+## Changing colour of the bar and windows
+
+#### You can change the colours of the windows (both activa and inactive) by inserting hexadecimal colours in line 179 to 184.
+#### You can also customize the bar by i3blocks (discussed later).
+
+## Installing icons and theme
+
+#### You can install icon packs and themes and implement them in your system using lxappearance.
+#### Suggested sites for downloading iconpacks are:
+
+* [Pling-store](https://www.pling.com/)
+* [Gnome-Look](https://www.gnome-look.org/browse/cat/)
+
+
+
+
+
 
 
 
