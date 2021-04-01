@@ -8,7 +8,7 @@ i3 is one of the most popular open source software that is used for ricing. 'Ric
 
 ``` bash
 $ sudo apt install i3
-$ sudo apt install feh thunar rofi pavucontrol arandr
+$ sudo apt install feh thunar rofi pavucontrol arandr i3blocks
 ```
 Logout of the window and on the login screen, you will get a white icon depicting the i3 window manager, select that and login.
 
@@ -43,7 +43,19 @@ Please note that _.config_ is a hidden folder.
 
 These key bindings can be altered in the _config_ file of i3.
 
-#### Please change the directory to the images file given in Line 206 and 227 of config file to the image location of your respective wallpaper and lockscreen. Lockscreen only supports _.png_ files
+## Customizing Wallpaper and Resolution
+
+#### Please change the directory to the images file given in Line 206 and 227 of config file to the image location of your respective wallpaper and lockscreen. #### Lockscreen only supports _.png_ files
+
+``` bash
+$ xrandr
+```
+Copy the output and paste it in line 228 followed by exec_always. It sets the resolution of your screen and it helps in adjusting multiple monitors.
+
+## Renaming Workspaces
+
+
+
 
 
 
