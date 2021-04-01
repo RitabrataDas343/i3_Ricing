@@ -118,6 +118,8 @@ It will display all the themes. Copy and paste your desired theme in line 207 an
 
 #### You can visit [i3wm](https://i3wm.org/docs/userguide.html) for further customization and help.
 
+# May the Source Be with you !!!
+
 
 
 
