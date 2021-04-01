@@ -8,7 +8,7 @@ i3 is one of the most popular open source software that is used for ricing. 'Ric
 
 ``` bash
 $ sudo apt install i3
-$ sudo apt install feh thunar rofi pavucontrol arandr i3blocks compton
+$ sudo apt install feh thunar rofi pavucontrol arandr i3blocks compton lxappearance
 ```
 Logout of the window and on the login screen, you will get a white icon depicting the i3 window manager, select that and login.
 
@@ -68,6 +68,10 @@ Click on the application and get the class and assign it using the syntax in lin
 ## Opening Applications on Boot
 
 #### Use the exec_always line in the code of the _config_ file. Example shown in line 224 and 225.  
+
+## Downloading Fonts 
+
+
 
 
 
