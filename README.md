@@ -43,7 +43,7 @@ Please note that _.config_ is a hidden folder.
 
 These key bindings can be altered in the _config_ file of i3.
 
-## Please change the directory to the images file given in Line 206 and 227 of config file to the image location of your respective wallpaper and lockscreen.
+#### Please change the directory to the images file given in Line 206 and 227 of config file to the image location of your respective wallpaper and lockscreen. Lockscreen only supports _.png_ files
 
 
 
