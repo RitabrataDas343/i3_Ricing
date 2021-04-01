@@ -29,6 +29,21 @@ Please note that _.config_ is a hidden folder.
 #### Win + Down Arrow Key or Win + K => Shifts the focus to the window below the current window. (Applicable only when vertical tiling is done)
 #### Win + Left Arrow Key or Win + J => Shifts the focus to the window to the left of the current window. (Applicable only when horizontal tiling is done)
 #### Win + Right Arrow Key  or Win + ; => Shifts the focus to the window to the right of the current window. (Applicable only when horizontal tiling is done)
+#### Win + S => Stacks the windows.
+#### Win + E => Tiles the windows.
+#### Win + W => Toggles the windows.
+#### Win + R => Activates the resize mode. Hover over the window you want to resize and use the arrow keys to resize the windows.
+#### Win + Shift + R => Restarts the i3 manager.
+#### Win + Shift + Space => Floats the window and makes it draggable.
+#### Win + Shift + X => Locks the screen.
+#### Win + Num (1 to 0) => Opens a workspace numbered 1 to 0 
+#### Win + Shift + Num (1 to 0) => Shifts the window upon which it is hovered to the workspace numbered 1 to 0
+
+These key bindings can be altered in the _config_ file of i3.
+
+
+
+
 
 
 
