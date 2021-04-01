@@ -8,6 +8,7 @@ i3 is one of the most popular open source software that is used for ricing. 'Ric
 
 ``` bash
 $ sudo apt install i3
+$ sudo apt install feh thunar rofi pavucontrol arandr
 ```
 Logout of the window and on the login screen, you will get a white icon depicting the i3 window manager, select that and login.
 
@@ -28,7 +29,7 @@ Please note that _.config_ is a hidden folder.
 #### Win + Up Arrow Key or Win + L => Shifts the focus to the window above the current window. (Applicable only when vertical tiling is done)
 #### Win + Down Arrow Key or Win + K => Shifts the focus to the window below the current window. (Applicable only when vertical tiling is done)
 #### Win + Left Arrow Key or Win + J => Shifts the focus to the window to the left of the current window. (Applicable only when horizontal tiling is done)
-#### Win + Right Arrow Key  or Win + ; => Shifts the focus to the window to the right of the current window. (Applicable only when horizontal tiling is done)
+#### Win + Right Arrow Key or Win + ; => Shifts the focus to the window to the right of the current window. (Applicable only when horizontal tiling is done)
 #### Win + S => Stacks the windows.
 #### Win + E => Tiles the windows.
 #### Win + W => Toggles the windows.
@@ -38,8 +39,15 @@ Please note that _.config_ is a hidden folder.
 #### Win + Shift + X => Locks the screen.
 #### Win + Num (1 to 0) => Opens a workspace numbered 1 to 0 
 #### Win + Shift + Num (1 to 0) => Shifts the window upon which it is hovered to the workspace numbered 1 to 0
+#### Win + Shift + E => Logout of i3.
 
 These key bindings can be altered in the _config_ file of i3.
+
+## Please change the directory to the images file given in Line 206 and 227 of config file to the image location of your respective wallpaper and lockscreen.
+
+
+
+
 
 
 
