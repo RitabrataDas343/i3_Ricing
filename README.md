@@ -1,6 +1,6 @@
 # i3_Ricing
 
-This is the repository containig the ricibg configuration of the system. Please follow the steps of the README.md file in the repository to get the desired effect of ricing. 
+This is the repository containig the ricing configuration of the system. Please follow the steps of the README.md file in the repository to get the desired effect of ricing. 
 
 i3 is one of the most popular open source software that is used for ricing. 'Ricing' basically represents customizing desktop and enables multi-tasking tiling features and so on.
 
